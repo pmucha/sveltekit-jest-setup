@@ -1,2 +1,2 @@
-# sveltekit-jest-setup
-SvelteKit with TypeScript and Jest
+# SvelteKit with TypeScript and Jest
+The simplest setup for testing a SvelteKit project.
