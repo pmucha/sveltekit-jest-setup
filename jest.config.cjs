@@ -6,6 +6,7 @@ module.exports = {
         "preprocess": true
       }
     ],
+    "^.+\\.js$": "babel-jest",
     "^.+\\.ts$": "ts-jest"
   },
   "testEnvironment": "jsdom",
